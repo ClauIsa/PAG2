@@ -1,0 +1,58 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 08 Nov 2022 20:30:47 at https://trome.pe/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://trome.pe/ -O1 "C:\My Web Sites\Trome dup" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:31:18	Error: 	"Not Found" (404) at link https://trome.pe/cc/digital/ (from https://trome.pe/)
+20:31:20	Error: 	"Not Found" (404) at link https://trome.pe/winback/ (from https://trome.pe/)
+20:31:22	Error: 	"Not Found" (404) at link https://trome.pe/extranjeros/ (from https://trome.pe/)
+20:31:23	Error: 	"Not Found" (404) at link https://trome.pe/universitarios/ (from https://trome.pe/)
+20:31:24	Error: 	"Not Found" (404) at link https://trome.pe/colaboradores/ (from https://trome.pe/)
+20:31:27	Error: 	"Not Found" (404) at link https://trome.pe/corporativos/ (from https://trome.pe/)
+20:31:37	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://trome.pe/)
+20:31:39	Error: 	"Not Found" (404) at link https://trome.pe/ak.m (from https://trome.pe/)
+20:31:44	Error: 	"Not Found" (404) at link https://trome.pe/ak.t (from https://trome.pe/)
+20:32:58	Error: 	Exit requested by shell or user
+20:33:11	Error: 	"Not Found" (404) at link https://trome.pe/todas/descendiente/?query= (from https://trome.pe/)
+20:33:14	Error: 	"Not Found" (404) at link https://trome.pe/autor/wendy-slee/ (from https://trome.pe/)
+20:33:17	Warning: 	Moved Permanently for https://trome.pe/horoscopo/
+20:33:17	Warning: 	File has moved from https://trome.pe/horoscopo/ to https://trome.com/horoscopo/
+20:33:18	Error: 	"Not Found" (404) at link https://trome.pe/Trident/ (from https://trome.pe/)
+20:33:18	Error: 	"Not Found" (404) at link https://trome.pe/GET/ (from static.chartbeat.com/js/chartbeat_mab.js)
+20:33:18	Error: 	"Not Found" (404) at link https://trome.pe/noticias/rodrigo-cuba/ak.m (from https://trome.pe/noticias/rodrigo-cuba/)
+20:33:18	Error: 	"Not Found" (404) at link https://trome.pe/noticias/rodrigo-cuba/ak.t (from https://trome.pe/noticias/rodrigo-cuba/)
+20:33:20	Error: 	"Not Found" (404) at link https://trome.pe/noticias/rodrigo-cuba/Trident/ (from https://trome.pe/noticias/rodrigo-cuba/)
+20:33:20	Error: 	"Not Found" (404) at link https://trome.pe/noticias/shakira/ak.m (from https://trome.pe/noticias/shakira/)
+20:33:20	Error: 	"Not Found" (404) at link https://trome.pe/noticias/shakira/ak.t (from https://trome.pe/noticias/shakira/)
+20:33:20	Warning: 	File not added due to mirror cancel: https://trome.pe/espectaculos/celebridades/gerard-pique-la-verdadera-razon-detras-de-su-retiro-del-futbol-segun-el-paparazzi-jordi-martin-celebs-de-espana-nndatl-noticia/
+20:33:20	Error: 	"mirror stopped by user" (-1) at link https://trome.pe/espectaculos/celebridades/gerard-pique-la-verdadera-razon-detras-de-su-retiro-del-futbol-segun-el-paparazzi-jordi-martin-celebs-de-espana-nndatl-noticia/ (from https://trome.pe/noticias/shakira/)
+20:33:20	Warning: 	File not added due to mirror cancel: https://trome.pe/espectaculos/celebridades/gerard-pique-cual-fue-su-declaracion-que-sorprendio-al-mundo-celeb-de-espana-nnda-nnlt-noticia/
+20:33:20	Error: 	"mirror stopped by user" (-1) at link https://trome.pe/espectaculos/celebridades/gerard-pique-cual-fue-su-declaracion-que-sorprendio-al-mundo-celeb-de-espana-nnda-nnlt-noticia/ (from https://trome.pe/noticias/shakira/)
+20:33:20	Warning: 	File not added due to mirror cancel: https://trome.pe/espectaculos/celebridades/shakira-le-fue-infiel-a-pique-amigo-del-jugador-del-fc-barcelona-tiene-otra-version-nndatl-noticia/
+20:33:20	Error: 	"mirror stopped by user" (-1) at link https://trome.pe/espectaculos/celebridades/shakira-le-fue-infiel-a-pique-amigo-del-jugador-del-fc-barcelona-tiene-otra-version-nndatl-noticia/ (from https://trome.pe/noticias/shakira/)
+20:33:20	Warning: 	File not added due to mirror cancel: https://trome.pe/espectaculos/celebridades/thalia-como-se-habria-burlado-de-shakira-por-la-cancion-monotonia-celebs-de-mexico-nndatl-noticia/
+20:33:20	Error: 	"mirror stopped by user" (-1) at link https://trome.pe/espectaculos/celebridades/thalia-como-se-habria-burlado-de-shakira-por-la-cancion-monotonia-celebs-de-mexico-nndatl-noticia/ (from https://trome.pe/noticias/shakira/)
+20:33:20	Warning: 	File not added due to mirror cancel: https://trome.pe/espectaculos/celebridades/shakira-ya-tiene-novio-es-colombiano-deportista-y-vive-en-miami-video-gerard-pique-reaccion-una-nueva-oportunidad-al-amor-vidente-mhoni-celebridades-noticia/
+20:33:20	Error: 	"mirror stopped by user" (-1) at link https://trome.pe/espectaculos/celebridades/shakira-ya-tiene-novio-es-colombiano-deportista-y-vive-en-miami-video-gerard-pique-reaccion-una-nueva-oportunidad-al-amor-vidente-mhoni-celebridades-noticia/ (from https://trome.pe/noticias/shakira/)
+20:33:20	Warning: 	File not added due to mirror cancel: https://trome.pe/deportes/gerard-pique-abuelo-revela-cual-sera-su-futuro-tras-retiro-del-futbol-video-con-barcelona-y-toma-riendas-de-fc-andorra-noticia/
+20:33:20	Error: 	"mirror stopped by user" (-1) at link https://trome.pe/deportes/gerard-pique-abuelo-revela-cual-sera-su-futuro-tras-retiro-del-futbol-video-con-barcelona-y-toma-riendas-de-fc-andorra-noticia/ (from https://trome.pe/noticias/shakira/)
+20:33:20	Warning: 	File not added due to mirror cancel: https://trome.pe/espectaculos/celebridades/como-reacciono-mama-de-shakira-cuando-le-preguntaron-sobre-retiro-de-gerard-pique-video-fc-barcelona-espana-rmmn-emcc-noticia/
+20:33:20	Error: 	"mirror stopped by user" (-1) at link https://trome.pe/espectaculos/celebridades/como-reacciono-mama-de-shakira-cuando-le-preguntaron-sobre-retiro-de-gerard-pique-video-fc-barcelona-espana-rmmn-emcc-noticia/ (from https://trome.pe/noticias/shakira/)
+20:33:20	Warning: 	File not added due to mirror cancel: https://trome.pe/espectaculos/celebridades/gerard-pique-la-situacion-del-ex-de-shakira-luego-de-dejar-el-futbol-celebs-de-espana-nnda-nnlt-noticia/
+20:33:20	Error: 	"mirror stopped by user" (-1) at link https://trome.pe/espectaculos/celebridades/gerard-pique-la-situacion-del-ex-de-shakira-luego-de-dejar-el-futbol-celebs-de-espana-nnda-nnlt-noticia/ (from https://trome.pe/noticias/shakira/)
+20:33:20	Warning: 	File not added due to mirror cancel: https://trome.pe/noticias/shakira/3/
+20:33:20	Error: 	"mirror stopped by user" (-1) at link https://trome.pe/noticias/shakira/3/ (from https://trome.pe/noticias/shakira/)
+20:33:20	Warning: 	File not added due to mirror cancel: https://trome.pe/noticias/shakira/10/
+20:33:20	Error: 	"mirror stopped by user" (-1) at link https://trome.pe/noticias/shakira/10/ (from https://trome.pe/noticias/shakira/)
+20:33:20	Warning: 	File not added due to mirror cancel: https://trome.pe/noticias/shakira/Trident/
+20:33:20	Error: 	"mirror stopped by user" (-1) at link https://trome.pe/noticias/shakira/Trident/ (from https://trome.pe/noticias/shakira/)
+20:33:20	Warning: 	File not added due to mirror cancel: https://trome.pe/noticias/deyvis-orosco/2/
+20:33:20	Error: 	"mirror stopped by user" (-1) at link https://trome.pe/noticias/deyvis-orosco/2/ (from https://trome.pe/noticias/deyvis-orosco/)
+20:33:20	Error: 	"Not Found" (404) at link https://trome.pe/noticias/deyvis-orosco/ak.m (from https://trome.pe/noticias/deyvis-orosco/)
+20:33:20	Error: 	"Not Found" (404) at link https://trome.pe/noticias/deyvis-orosco/ak.t (from https://trome.pe/noticias/deyvis-orosco/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 33 seconds : 303 links scanned, 269 files written (59913810 bytes overall) [14989463 bytes received at 97970 bytes/sec], 69113967 bytes transferred using HTTP compression in 195 files, ratio 19%, 1.8 requests per connection
+(33 errors, 14 warnings, 0 messages)
